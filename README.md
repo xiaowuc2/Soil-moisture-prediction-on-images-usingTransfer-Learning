@@ -5,7 +5,7 @@
 </p>
 
 <p><pre align="center">
-<strong> Soil moisture prediction on images using Transfer Learning / <a href="https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA">​Code​</a> / <a href="https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA">​Website​</a></pre></p></strong>
+<strong> Soil moisture prediction on images using Transfer Learning / <a href="https://github.com/xiaowuc2/Soil-moisture-prediction-on-images-usingTransfer-Learning/tree/main/Code">​Code​</a> / <a href="https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA">​Website​</a></pre></p></strong>
 
 ### Abstract
 
